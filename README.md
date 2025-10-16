@@ -1,4 +1,4 @@
 # ProfileManagement
 This is my first Git Repository
 <br>
-Author - Devendra Parte.
+Author - Devendra Prakash Parte.
